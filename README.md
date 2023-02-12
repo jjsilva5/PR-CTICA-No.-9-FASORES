@@ -18,9 +18,7 @@ Integrantes:
 
 2. MARCO TEÓRICO
 
-![image](https://user-images.githubusercontent.com/117045943/218288642-7e6e65bf-18ea-43f9-ae4e-1095bcc4d507.png)
-![image](https://user-images.githubusercontent.com/117045943/218288643-0b07f9b8-7081-46e0-afc1-55a409b43cf0.png)
-
+![image](https://user-images.githubusercontent.com/117045943/218288647-0add5acb-51e8-4dff-aa57-fecb39ebafb9.png)
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
