@@ -1,60 +1,155 @@
-# PR-CTICA-No.-9-FASORES
+# TAREA-N9
 
 
 
-Integrantes:
+1.OBJETIVOS
 
-- Jose Joaquin Silva Escobar
-- Pamela Elizabeth Montatixe Almachi
-- Mauricio Joseph Taco Cabrera
+1.1 Objetivo general:
 
-1. OBJETIVOS
+- Examinar los contenidos propuestos en los capítulos 17 y 18 del texto “Principios de circuitos eléctricos” de Floyd, mediante el estudio de los mismos, con el fin de concluir con los tópicos asignados a lo largo de este semestre.
 
-- Comprender la forma de representar de forma rectangular a polar y viceversa los diferentes problemas
-- Verificar los resultados al aplicar todas las operaciones basicas de numeros complejos tales como la suma, resta, multiplicacion y division.
-- Comparar las respuestas conseguidas analiticamente con los de una calculadora cientifica.
-- Aplicar los conceptos para hacer suma, resta, multiplicación y división de fasores
-- Asociar el conocimiento sobre la transformación de fasores de forma polar a rectangular y viceversa con la parte de la opresiones y facilitar el desarrollo de las mismas
+1.2 Objetivos especificos:
 
-2. MARCO TEÓRICO
+- Representar los voltajes y corrientes trifasicos en forma de fasores.
+- Analizar circuitos trifasicos balanceados.
+- Describir las formas de representar la generacion de voltaje en 3 fases.
+- Desarrollar un resumen, correspondiente a cada capítulo, mediante mapas conceptuales o diagramas, con el fin de facilitar el entendimiento teórico de los temas a tratar en cada uno de ellos.
+- Resolver los ejercicios impares de cada uno de los capítulos, para poner en práctica los conocimientos adquiridos.
+- Identificar el funcionamiento y operación de circuitos RLC, RC y RL.
 
-![image](https://user-images.githubusercontent.com/117045943/218288647-0add5acb-51e8-4dff-aa57-fecb39ebafb9.png)
+2.MARCO TEÓRICO
 
-3. EXPLICACIÓN DEL PROCEDIMIENTO
+![5](https://user-images.githubusercontent.com/117045943/218233736-52cbb722-95ee-49a6-8591-4a92abe15409.jpg)
+![6](https://user-images.githubusercontent.com/117045943/218233738-a52fbf4d-c883-413f-8d99-1b5e8f73103e.jpg)
+![7](https://user-images.githubusercontent.com/117045943/218233744-b626cabf-f7fd-4fb1-b1ed-48c30408158f.jpg)
 
-3.1 MATERIAL Y EQUIPO REQUERIDO
+3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-![image](https://user-images.githubusercontent.com/117045943/218288566-a11af56c-c552-41bb-8eb9-c5a86a86f340.png)
+_Capítulo 23_     
 
+![Cap23](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/Cap23.png)    
 
+![Cap23_1](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/Cap23_1.png) 
 
-4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+![Cap23_2](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/Cap23_2.png)
 
-![image](https://user-images.githubusercontent.com/117045943/222773866-f81f66c0-8b7c-4d81-b4ba-1c69c61fe31a.png)
+_Capítulo 24_
 
-![image](https://user-images.githubusercontent.com/117045943/222783727-e5fd347a-d3f2-4e47-9427-c27933409dc6.png)
+![mt1](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/mt1.PNG)
 
-![image](https://user-images.githubusercontent.com/117045943/222783762-43eb3fbe-1415-4cd5-9fd2-a29f4b2244d1.png)
- 
- ![image](https://user-images.githubusercontent.com/117045943/222783817-88bf3a16-08d6-4f3f-b389-76c3acb68b22.png)
+![mt2](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/mt2.PNG)
 
-![image](https://user-images.githubusercontent.com/117045943/222783853-cb4c39d5-09fc-46cd-9681-440e15645a07.png)
+![mt3](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/mt3.PNG)
 
-![image](https://user-images.githubusercontent.com/117045943/222783875-8b419329-e57a-4cf8-8d92-ed11c8753a28.png)
+![mt4](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/mt4.PNG)
 
-5. VIDEO
+![Mapa1-C24](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/Fun.C%20Tarea%209%20resumen%20cap%2024%20m01.jpg)
 
-https://youtu.be/i79qxZrUPD8
+![Mapa2-C24](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/Fun.C%20Tarea%209%20resumen%20cap%2024%20m02.jpg)
 
-6. CONCLUSIONES
+![Mapa3-C24](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/Fun.C%20Tarea%209%20resumen%20cap%2024%20m03.jpg)
 
-- Trabajar con complejos complica los detalles de calculo,no altera los principios basicos de los problemas y circuitos.
-- Con el enfoque de fasores, el analisis de circuitos de ca se maneja de forma similar al analisis de circuitos de cd, y todas las relaciones basicas y teoremas se aplican.
-- La suma y resta de numeros complejos se puede realizar mejor en forma rectangular mientras que la multiplicacion y division es mas factible hacerlo de forma polar.
-- Se pudo comprobar que los valores obtenidos mediante las formulas y la calculadora cientifica coinciden. Asi mismo tanto para las tablas obtenidas, se comprobó las formulas para cada literal, los cálculos obtenidos nos asemejan a una silmulación real, todo este proceso de usar la ley antes mencionadas nos permiten a que los valores sean precisos y casi exactos.
+![Mapa4-C24](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/Fun.C%20Tarea%209%20resumen%20cap%2024%20m04.jpg)
 
-7. BIBLIOGRAFÍA
+**3. RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
-H. Robbins, A. y Wilhem C. Miller. (2008). Análisis de circuitos: teoría y prática,Cuarta Edición. Ciudad de México: CENGAGE Learning.
+_Capítulo 23_        
+![3](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/3.png)    
 
-Floyd (8va Ed)(2007). Principios de circuitos electricos. Pearson Education
+![5](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/5.png)  
+
+![7](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/7.png)   
+
+![9](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/9.png)   
+
+![11](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/11.png)  
+
+![13](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/13.png) 
+
+![17](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/17.png)  
+
+![21](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/21.png)  
+
+![23](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/23.png) 
+
+![27](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/27.png) 
+
+![29](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/29.png)  
+
+![31](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/31.png) 
+
+![1t9](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/1t9.PNG) 
+
+![2t9](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/2t9.PNG) 
+
+![3t9](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/3t9.PNG)
+
+![4t9](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/4t9.PNG)
+
+_Capítulo 24_
+
+![5t9](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/5t9.PNG)
+
+![6t9](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/6t9.PNG)
+
+![7t9](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/7t9.PNG)
+
+![8t9](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/8t9.PNG)
+
+![9t9](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/9t9.PNG)
+
+![10t9](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/10t9.PNG)
+
+![11t9](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/11t9.PNG)
+
+![12t9](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/12t9.PNG)
+
+![13t9](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/13t9.PNG)
+
+![14t9](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/14t9.PNG)
+
+![15t9](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/15t9.PNG)
+
+![16t9](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/16t9.PNG)
+
+![Ejer 25-C24](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/25-C24.png)
+
+![Ejer 27-C24](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/27-C24.png)
+
+![Ejer 29-C24](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/29-C24.png)
+
+![Ejer 31-C24](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/31-C24.png)
+
+![Ejer 33-C24](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/33-C24.png)
+
+![Ejer 35-C24](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/35-C24.png)
+
+![Ejer 37-C24](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/37-C24.png)
+
+![Ejer 39-C24](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/39-C24.png)
+
+![Ejer 41-C24](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/41-C24.png)
+
+![Ejer 47-C24](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/47-C24.png)
+
+![Ejer 49-C24](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/49-C24.png)
+
+![Ejer 51-C24](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/51-C24.png)
+
+![Ejer 53-C24](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/53-C24.png)
+
+4.VIDEO
+
+https://drive.google.com/file/d/1EzgyFwEIJp9vEzMdye1cWzTnVQuDg4bI/view?usp=sharing
+
+5.CONCLUSIONES
+
+- Los transformadores tienen muchas aplicaciones como sistemas de potencia electrica para aumentar el voltaje en transmisiones , entre otras cosas.
+- El campo magnetico producido por una corriente en una bobina provoca un voltaje en la segunda bobina devanada en el mismo nucleo, los transformadores usan este efecto.
+- Podemos ver que los sistemas trifasicos difieren de los de una fase en donde se usan un conjunto de 3 voltajes sinusoidales de ca en vez de uno.
+- A través de la resolución de los presentes ejercicios se llegó a la conclusión que los filtros de pasabajas permiten que fluya las señales de baja frecuencia a diferencia de los filtros de pasaaltas que permiten que fluyan las señales de alta frecuencia.
+- Se determino que un circuito RLC en serie está formado por una resistencia, un inductor y un condensador también que las tensiones entre los terminales del condensador y los terminales del inductor estan siempre separados 180°.
+
+6.BIBLIOGRAFÍA
+
+Floyd (8va Ed)(2007). Principios de circuitos electricos. Pearson Education.
