@@ -30,7 +30,17 @@ Integrantes:
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
+![image](https://user-images.githubusercontent.com/117045943/222773866-f81f66c0-8b7c-4d81-b4ba-1c69c61fe31a.png)
 
+![image](https://user-images.githubusercontent.com/117045943/222783727-e5fd347a-d3f2-4e47-9427-c27933409dc6.png)
+
+![image](https://user-images.githubusercontent.com/117045943/222783762-43eb3fbe-1415-4cd5-9fd2-a29f4b2244d1.png)
+ 
+ ![image](https://user-images.githubusercontent.com/117045943/222783817-88bf3a16-08d6-4f3f-b389-76c3acb68b22.png)
+
+![image](https://user-images.githubusercontent.com/117045943/222783853-cb4c39d5-09fc-46cd-9681-440e15645a07.png)
+
+![image](https://user-images.githubusercontent.com/117045943/222783875-8b419329-e57a-4cf8-8d92-ed11c8753a28.png)
 
 5. VIDEO
 
