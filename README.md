@@ -23,34 +23,6 @@
 ![6](https://user-images.githubusercontent.com/117045943/218233738-a52fbf4d-c883-413f-8d99-1b5e8f73103e.jpg)
 ![7](https://user-images.githubusercontent.com/117045943/218233744-b626cabf-f7fd-4fb1-b1ed-48c30408158f.jpg)
 
-3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
-
-_Capítulo 23_     
-
-![Cap23](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/Cap23.png)    
-
-![Cap23_1](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/Cap23_1.png) 
-
-![Cap23_2](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/Cap23_2.png)
-
-_Capítulo 24_
-
-![mt1](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/mt1.PNG)
-
-![mt2](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/mt2.PNG)
-
-![mt3](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/mt3.PNG)
-
-![mt4](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/mt4.PNG)
-
-![Mapa1-C24](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/Fun.C%20Tarea%209%20resumen%20cap%2024%20m01.jpg)
-
-![Mapa2-C24](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/Fun.C%20Tarea%209%20resumen%20cap%2024%20m02.jpg)
-
-![Mapa3-C24](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/Fun.C%20Tarea%209%20resumen%20cap%2024%20m03.jpg)
-
-![Mapa4-C24](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/Fun.C%20Tarea%209%20resumen%20cap%2024%20m04.jpg)
-
 **3. RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
 _Capítulo 23_        
